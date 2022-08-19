@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vcarmelli
 - 👀 I’m interested in Kpop especially NCT <3 
-- 🌱 I’m currently learning languanges like Python, C/C++, and Korean hehe
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning languanges like Python, C/C++, JavaScript and Korean 
 - 📫 How to reach me on Twitter @kaeyllaa
 
 <!---
