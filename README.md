@@ -85,7 +85,7 @@
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcarmelli&show_icons=true&locale=en&layout=compact" alt="vcarmelli" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcarmelli&show_icons=true&locale=en" alt="vcarmelli" />
-  <img align="right" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <br><img align="center" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
