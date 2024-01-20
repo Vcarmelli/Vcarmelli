@@ -63,6 +63,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -81,7 +83,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcarmelli&show_icons=true&locale=en&layout=compact" alt="vcarmelli" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcarmelli&show_icons=true&locale=en" alt="vcarmelli" />
+  <img align="right" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
