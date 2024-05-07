@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Vash from Philippines!<br>- 🔭 I’m a Computer Science student<br>- 📚 I'm currently learning any language<br>- ⚡ In my free time I watch movies or series</p>
+<p align="left"><h4><b>I'm Vash from Philippines!</b></h4>- 🔭 I’m a Computer Science Student in Technological University of the Philippines - Manila<br>- 📚 I'm currently learning any language<br>- ⚡ I want to explore cloud computing</p>
 
 ###
 
@@ -83,9 +83,14 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcarmelli&show_icons=true&locale=en&layout=compact" alt="vcarmelli" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcarmelli&show_icons=true&locale=en" alt="vcarmelli" />
-  <br><img align="center" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img align="center" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=15&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcarmelli&show_icons=true&border_radius=15&locale=en&layout=compact" alt="vcarmelli" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vcarmelli&hide_title=true&show_icons=true&border_radius=15&locale=en" alt="vcarmelli" />
 </div>
 
 ###
