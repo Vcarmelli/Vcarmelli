@@ -97,7 +97,7 @@
 </div>
 
 <div align="left">
-  <img align="center" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=15&order=3" width="70%" />
+  <img align="center" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=15&order=3" width="60%" />
 </div>
 
 
