@@ -88,7 +88,7 @@
 
 ### My Statistics
 <div align="left">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcarmelli&theme=nord_bright" width="70%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcarmelli&theme=nord_bright" width="85%" height="auto" style="display: inline;" />
 </div>
 
 <div align="left" >
