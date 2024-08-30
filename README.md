@@ -24,75 +24,80 @@
 
 <h1 align="center">hi hello my name is what you want it to</h1>
 
-###
+### About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"><h4><b>I'm Vash from Philippines!</b></h4>- 🔭 I’m a Computer Science Student in Technological University of the Philippines - Manila<br>- 📚 I'm currently learning any language<br>- ⚡ I want to explore cloud computing</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+#### 👩‍💻 I'm Vash from Philippines!
+- 🔭 I’m a Computer Science Student in Technological University of the Philippines - Manila
+- 📚 I'm currently learning any language
+- ⚡ I want to explore cloud computing</p>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+### Programming Languages
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo" title="Java"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" title="HTML"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" height="40" alt="css logo" title="CSS"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=light" height="40" alt="javascript logo" title="JavaScript"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=php&theme=light" height="40" alt="php logo" title="PHP"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" height="40" alt="python logo" title="Python"/>
+  <img width="7" />
 </div>
 
-###
+### Tools and Technologies
 
-<h3 align="left">🔥   My Stats</h3>
-
-###
-
-<div align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=15&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40" alt="bootstrap logo" title="Bootstrap"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40" alt="tailwind logo" title="Tailwind CSS"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=sass&theme=light" height="40" alt="tailwind logo" title="SASS"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="nodejs logo" title="Node.js"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo" title="React.js"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo" title="MySQL"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=light" height="40" alt="flask logo" title="Flask"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40" alt="firebase logo" title="Firebase"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=flutter&theme=light" height="40" alt="flutter logo" title="Flutter"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo" title="VS Code"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40" alt="figma logo" title="Figma"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=ps&theme=light" height="40" alt="photoshop logo" title="Photoshop"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=ai&theme=light" height="40" alt="illustrator logo" title="Illustrator"/>
 </div>
 
-###
+<br> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcarmelli&show_icons=true&border_radius=15&locale=en&layout=compact" alt="vcarmelli" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vcarmelli&hide_title=true&show_icons=true&border_radius=15&locale=en" alt="vcarmelli" />
+### My Statistics
+<div align="left">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcarmelli&theme=nord_bright" width="70%" height="auto" style="display: inline;" />
 </div>
 
-###
+<div align="left" >
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vcarmelli&theme=nord_bright" alt="vcarmelli" style="display: inline;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcarmelli&show_icons=true&border_radius=15&locale=en&layout=compact"  style="display: inline;" height="195" />
+</div>
+
+<div align="left">
+  <img align="center" src="https://streak-stats.demolab.com?user=Vcarmelli&locale=en&mode=daily&theme=light&hide_border=false&border_radius=15&order=3" width="55%" />
+</div>
+
+
