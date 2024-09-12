@@ -67,7 +67,7 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo" title="React.js"/>
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=laravel&theme=light" height="40" alt="bootstrap logo" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=laravel&theme=light" height="40" alt="laravel logo" title="Laravel"/>
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo" title="MySQL"/>
   <img width="7" />
