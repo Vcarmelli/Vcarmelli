@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/75/d1/40/75d14065f31a2cae5d809a3b0872775b.png"  />
-</div>
+<h1 align="center">Hey, it's Vash! ✌️</h1>
 
 ###
 
@@ -19,10 +17,8 @@
   </a>
 </div>
 
-
 ###
 
-<h1 align="center">hi hello my name is what you want it to</h1>
 
 ### About Me
 
