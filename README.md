@@ -24,8 +24,8 @@
 
 #### 👩‍💻 I'm Vash from Philippines!
 - 🔭 I’m a Computer Science Student in Technological University of the Philippines - Manila
-- 📚 I'm currently learning any language
-- ⚡ I want to explore cloud computing</p>
+- 📚 I'm currently learning C# with ASP.NET 
+- ⚡ I want to explore cloud computing
 
 ###
 
@@ -35,6 +35,8 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C"/>
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cplusplus logo" title="C#"/>
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo" title="Java"/>
   <img width="7" />
@@ -63,17 +65,25 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo" title="React.js"/>
   <img width="7" />
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="40" alt="wordpress logo" title="WordPress"/>
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=laravel&theme=light" height="40" alt="laravel logo" title="Laravel"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=light" height="40" alt="flask logo" title="Flask"/>
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo" title="MySQL"/>
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=flask&theme=light" height="40" alt="flask logo" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="40" alt="mongodb logo" title="MongoDB"/>
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40" alt="firebase logo" title="Firebase"/>
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=flutter&theme=light" height="40" alt="flutter logo" title="Flutter"/>
   <img width="7" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="40" alt="dotnet logo" title=".NET"/>
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo" title="VS Code"/>
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=rider&theme=light" height="40" alt="rider logo" title="JetBrains Rider"/>
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40" alt="figma logo" title="Figma"/>
   <img width="7" />
